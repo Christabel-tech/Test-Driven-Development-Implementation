@@ -1,0 +1,40 @@
+# Temporary files
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Test output
+jest.config.js
+
+# CLI local files
+.dms.json
+
+bin
+dms-CLI
+screen shots
+src
+tests
+Webpack-Configuration
+.package-lock.json

@@ -31,10 +31,3 @@ jest.config.js
 # CLI local files
 .dms.json
 
-bin
-dms-CLI
-screen shots
-src
-tests
-Webpack-Configuration
-.package-lock.json
